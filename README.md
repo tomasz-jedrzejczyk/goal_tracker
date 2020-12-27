@@ -1,1 +1,2 @@
-# goal_tracker
+# GoalTracker
+my first application written in react nativ
